@@ -1,5 +1,5 @@
 <div style="text-align:center">
-  <img src="assets/icon.png" alt="Plant Manager" height="100">
+  <img src="public/logo-full.svg" alt="Move.it" height="100">
 </div>
 
 ## Move.it
